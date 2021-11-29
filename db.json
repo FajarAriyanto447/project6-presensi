@@ -1,0 +1,76 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "admin",
+      "password": "123",
+      "role": "admin"
+    },
+    {
+      "username": "mahasiswa",
+      "password": "1234",
+      "role": "mahasiswa",
+      "absen": [
+        {
+          "id": 1,
+          "tanggal": "2021-11-06",
+          "picked": "Hadir",
+          "picked2": "Hadir",
+          "gambar": ""
+        },
+        {
+          "id": 2,
+          "tanggal": "2021-11-19",
+          "picked": "Hadir",
+          "picked2": "Hadir",
+          "gambar": "gambar"
+        },
+        {
+          "id": 3,
+          "tanggal": "2021-11-19",
+          "picked": "Hadir",
+          "picked2": "Hadir",
+          "gambar": "sss"
+        },
+        {
+          "id": 4,
+          "tanggal": "2021-11-19",
+          "picked": "Hadir",
+          "picked2": "Hadir",
+          "gambar": "testing"
+        },
+        {
+          "id": 5,
+          "tanggal": "2021-11-20",
+          "picked": "Hadir",
+          "gambar": "ssssdad"
+        },
+        {
+          "id": 6,
+          "tanggal": "2021-11-01",
+          "picked": "Hadir",
+          "gambar": "erf"
+        },
+        {
+          "id": 7,
+          "tanggal": "2021-11-20",
+          "picked": "",
+          "gambar": "tgfvb"
+        },
+        {
+          "id": 8,
+          "tanggal": "2021-11-04",
+          "picked": "Hadir",
+          "gambar": "4wtedxt4"
+        }
+      ],
+      "id": 2
+    },
+    {
+      "id": 3,
+      "username": "dosen",
+      "password": "sayapalingbenar",
+      "role": "dosen"
+    }
+  ]
+}
